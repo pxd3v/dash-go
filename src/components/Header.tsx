@@ -14,6 +14,7 @@ export function Header({}: HeaderProps) {
           mx="auto"
           mt="4"
           align="center"
+          px="6"
         >
             <Text
               fontSize="3xl"
